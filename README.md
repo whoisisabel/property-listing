@@ -1,4 +1,4 @@
-## 📌 **Property Finder**  
+## 📌 **Property Listing**  
 A modern **Vue 3** web application that displays property listings using the **Bayut API** from RapidAPI. Users can browse properties, view details, and sort listings by price or location.
 
 ## 🚀 **Features**
@@ -9,7 +9,7 @@ A modern **Vue 3** web application that displays property listings using the **B
 ✅ **Vue Router** for navigation  
 ✅ **Font Awesome** icons for property details  
 ✅ **Loading indicator** while fetching data  
-✅ Deployed on **[Vercel / Netlify / GitHub Pages]**  
+✅ Deployed on **Netlify **  
 
 ## 🖥️ **Live Demo**
 🔗 [[View the deployed project](https://property-listing-bayut.netlify.app/)](#) 
