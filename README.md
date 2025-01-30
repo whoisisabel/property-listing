@@ -1,4 +1,4 @@
-## 📌 **Property Listing**  
+## 📌 **Property Finder**  
 A modern **Vue 3** web application that displays property listings using the **Bayut API** from RapidAPI. Users can browse properties, view details, and sort listings by price or location.
 
 ## 🚀 **Features**
@@ -24,8 +24,8 @@ A modern **Vue 3** web application that displays property listings using the **B
 ## 🔧 **Installation & Setup**
 ### 1️⃣ **Clone the repository**
 ```sh
-git clone https://github.com/yourusername/property-finder.git
-cd property-finder
+git clone https://github.com/yourusername/property-listing.git
+cd property-listing
 ```
 
 ### 2️⃣ **Install dependencies**
